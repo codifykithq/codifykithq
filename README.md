@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">CodifyKit</h1>
 
-<!--
-**codifykithq/codifykithq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Premium WordPress & WooCommerce digital products</b><br>
+  Plugins, themes, templates, and code kits for developers and website owners.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://codifykit.com"><b>codifykit.com</b></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.0+-bfbfbf?style=flat-square&logo=php&logoColor=0d0d0d">
+  <img src="https://img.shields.io/badge/WordPress-6.0+-bfbfbf?style=flat-square&logo=wordpress&logoColor=0d0d0d">
+  <img src="https://img.shields.io/badge/WooCommerce-7.0+-bfbfbf?style=flat-square&logo=woocommerce&logoColor=0d0d0d">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-bfbfbf?style=flat-square&logo=javascript&logoColor=0d0d0d">
+</p>
+
+---
+
+### What we build
+
+- **WordPress Plugins** — production-ready and WooCommerce-friendly
+- **Themes & Templates** — modern, responsive, dark-mode ready
+- **HTML Templates & Code Kits** — clean, documented, and easy to customize
+
+### Our focus
+
+Every CodifyKit product ships with clean code, thorough documentation, and a polished dark interface. We build tools that solve real problems for freelancers, agencies, and business owners running WordPress.
+
+### Get in touch
+
+🌐 Website — [codifykit.com](https://codifykit.com)
